@@ -34,5 +34,6 @@ public class Main {
             System.out.print(("%" + Integer.toHexString(str.charAt(i))));
         }
 
+		// user 1 commit
     }
 }
